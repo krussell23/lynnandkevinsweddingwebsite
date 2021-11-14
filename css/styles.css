@@ -10,11 +10,11 @@ body {
 
 /* ******* Typography ******** */
 h1 {
-  font-size: 3.9rem;
+  font-size:6rem;
   line-height: 7rem;
   font-family: "Piazzolla", serif;
-  font-weight: 700;
-  color: orangered;
+  font-weight: 900;
+  color: rgba(98, 0, 255, 0.986);
 }
 
 h2 {
