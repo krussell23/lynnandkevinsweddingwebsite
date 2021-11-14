@@ -194,10 +194,11 @@ section.keyword > div {
   justify-content: center;
 }
 
-section h2 {
+h1 {
   text-transform: uppercase;
   font-weight: 700;
   font-family: "Roboto", sans-serif;
+  color: orangered;
 }
 .technology,
 .landscape,
