@@ -12,7 +12,9 @@ body {
 h1 {
   font-size: 3.9rem;
   line-height: 7rem;
+  font-family: "Piazzolla", serif;
   font-weight: 700;
+  color: orangered;
 }
 
 h2 {
@@ -194,11 +196,10 @@ section.keyword > div {
   justify-content: center;
 }
 
-h1 {
+section h2 {
   text-transform: uppercase;
   font-weight: 700;
   font-family: "Roboto", sans-serif;
-  color: orangered;
 }
 .technology,
 .landscape,
